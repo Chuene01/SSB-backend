@@ -1,0 +1,6 @@
+{"timestamp": "2026-01-10T21:38:07.963613", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/signal/"}
+{"timestamp": "2026-01-10T21:44:08.107400", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/signal/"}
+{"timestamp": "2026-01-10T21:49:04.515394", "error": "500 Server Error: Internal Server Error for url: http://127.0.0.1:8000/signal/"}
+{"timestamp": "2026-01-10T21:57:14.729002", "symbol": "EUR/USD", "timeframes": ["1h", "30m", "15m"], "trade_allowed": false, "reason": "Pair structure not aligned", "details": {"aligned": false, "direction": null, "valid_timeframes": [], "reason": "Less than 2 timeframes aligned"}}
+{"timestamp": "2026-01-10T22:12:18.214884", "symbol": "EUR/USD", "timeframes": ["1h", "30m", "15m"], "trade_allowed": false, "reason": "Pair structure not aligned", "details": {"aligned": false, "direction": null, "valid_timeframes": [], "reason": "Less than 2 timeframes aligned"}}
+{"timestamp": "2026-01-10T22:27:22.448888", "symbol": "EUR/USD", "timeframes": ["1h", "30m", "15m"], "trade_allowed": false, "reason": "Pair structure not aligned", "details": {"aligned": false, "direction": null, "valid_timeframes": [], "reason": "Less than 2 timeframes aligned"}}

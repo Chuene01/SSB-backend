@@ -15,12 +15,11 @@ def get_signal() -> Dict:
     # =========================
     # Configuration (temporary)
     # =========================
-    symbol = "EURUSD"
+    symbol = "EUR/USD"
     index_symbol = "DXY"   # handled by exchange adapter
     timeframes = ["1h", "30m", "15m"]
 
-    exchange = get_exchange()
-    market_data = MarketDataService(exchange)
+    market_data = MarketDataService()
 
     # =========================
     # 1️⃣ Pair structure

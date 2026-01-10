@@ -11,7 +11,7 @@ from pathlib import Path
 SIGNAL_URL = "http://127.0.0.1:8000/signal"
 LOG_INTERVAL_SECONDS = 15 * 60  # 15 minutes
 
-SYMBOL = "EURUSD"
+SYMBOL = "EUR/USD"
 TIMEFRAMES = ["1h", "30m", "15m"]
 
 LOG_DIR = Path("app/logs/phase2")
